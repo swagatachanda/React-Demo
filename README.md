@@ -1,3 +1,8 @@
+# This is a Spotify web API integration Music App where we can search tracks and add to our Spotify Playlist
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
