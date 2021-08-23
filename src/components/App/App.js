@@ -105,7 +105,7 @@ class App extends React.Component{
       // </div>
       <div>
         <h1>
-          <a href="http://localhost:3000/">Musicophile</a>
+          <a href="https://spotify.herokuapp.com/">Musicophile</a>
         </h1>
         <div className="App">
           <Searchbar onSearch={this.search}/>

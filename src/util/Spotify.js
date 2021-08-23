@@ -2,7 +2,7 @@
 import env from "react-dotenv";
 
 const clientId = env.CLIENT_ID;
-const redirectUri=`http://localhost:3000/`;
+const redirectUri="https://spotify.herokuapp.com/";
 var accessToken
 
 const Spotify={
