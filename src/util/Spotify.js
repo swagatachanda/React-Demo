@@ -2,7 +2,7 @@
 import env from "react-dotenv";
 
 const clientId = env.CLIENT_ID;
-const redirectUri="spotifyme.smll.live";
+const redirectUri="https://spotifyme.smll.live/";
 var accessToken
 
 const Spotify={
